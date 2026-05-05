@@ -60,7 +60,7 @@ def build_ics(weather_data):
         "X-WR-CALDESC:Hourly refreshed NOAA/NWS forecast for Ann Arbor, Michigan",
     ]
 
-    for period in weather_data.get("periods", [])[:14]:
+    for period in weather_data.get("periods", [])[:28]:
         start = parse_time(period.get("startTime"))
         if not start:
             continue
@@ -76,7 +76,7 @@ def build_ics(weather_data):
         wind_direction = period.get("windDirection", "")
         details = period.get("detailedForecast", "No detailed forecast available.")
 
-        summary = f"{emoji} {day_part}: {short_forecast}, {temperature}\u00b0{unit}"
+        summary = f"{emoji} {day_part}: {temperature}\u00b0{unit}, {short_forecast}"
         description = "\n".join(
             [
                 f"NOAA forecast for {location}",
