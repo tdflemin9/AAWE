@@ -76,7 +76,7 @@ def build_ics(weather_data):
         wind_direction = period.get("windDirection", "")
         details = period.get("detailedForecast", "No detailed forecast available.")
 
-        summary = f"{emoji} {day_part}: {temperature}\u00b0{unit}, {short_forecast}"
+        summary = f"{temperature}\u00b0{unit} {emoji} {day_part}: {short_forecast}"
         description = "\n".join(
             [
                 f"NOAA forecast for {location}",

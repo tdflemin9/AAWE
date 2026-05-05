@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -21,11 +21,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -33,6 +28,17 @@ jobs:
 
       - name: Generate weather calendar feed
         run: python scripts/generate_weather_feed.py
+
+      - name: Test weather calendar feed
+        run: python -m unittest discover -s tests
+
+      - name: Commit generated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/index.html public/weather.ics
+          git diff --cached --quiet || git commit -m "Refresh weather feed"
+          git push
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
