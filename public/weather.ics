@@ -6,20 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Ann Arbor NOAA Weather
 X-WR-CALDESC:Hourly refreshed NOAA/NWS forecast for Ann Arbor, Michigan
 BEGIN:VEVENT
-UID:ann-arbor-weather-20260520-day@github-pages-feed
-DTSTAMP:20260520T210710Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:62°F ☁️ Day: Mostly Cloudy
-LOCATION:Ann Arbor\, MI
-DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 62°F\nConditions: Mostly Cloudy\nWind: N 8 mph\n\nMostly cloudy\,
-  with a high near 62. North wind around 8 mph.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ann-arbor-weather-20260520-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:40°F ☁️ Night: Mostly Cloudy
@@ -32,7 +20,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260521-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:63°F ☀️ Day: Sunny
@@ -45,20 +33,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260521-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:45°F ☁️ Night: Partly Cloudy
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
  erature: 45°F\nConditions: Partly Cloudy\nWind: ENE 7 to 12 mph\n\nPartl
- y cloudy\, with a low around 45. East northeast wind 7 to 12 mph\, with g
- usts as high as 20 mph.
+ y cloudy. Low around 45\, with temperatures rising to around 48 overnight
+ . East northeast wind 7 to 12 mph\, with gusts as high as 20 mph.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260522-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:68°F 🌧️ Day: Partly Sunny then Chance Rain Showers
@@ -73,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260522-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:53°F 🌧️ Night: Rain Showers
@@ -81,24 +69,27 @@ LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
  erature: 53°F\nConditions: Rain Showers\nWind: E 17 mph\n\nRain showers 
  before 2am\, then showers and thunderstorms. Cloudy\, with a low around 5
- 3. Chance of precipitation is 90%.
+ 3. East wind around 17 mph\, with gusts as high as 31 mph. Chance of prec
+ ipitation is 90%. New rainfall amounts between a half and three quarters 
+ of an inch possible.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260523-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:73°F ⛈️ Day: Showers And Thunderstorms
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
  ature: 73°F\nConditions: Showers And Thunderstorms\nWind: SE 10 to 14 mp
- h\n\nShowers and thunderstorms. Mostly cloudy\, with a high near 73.
+ h\n\nShowers and thunderstorms. Mostly cloudy\, with a high near 73. Chan
+ ce of precipitation is 90%.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260523-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:54°F 🌧️ Night: Chance Rain Showers
@@ -110,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260524-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 SUMMARY:77°F ⛈️ Day: Slight Chance Rain Showers then Chance Showers A
@@ -125,7 +116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260524-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 SUMMARY:55°F ⛈️ Night: Chance Showers And Thunderstorms
@@ -138,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260525-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:78°F 🌧️ Day: Slight Chance Rain Showers then Partly Sunny
@@ -151,7 +142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260525-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:57°F ☁️ Night: Mostly Cloudy
@@ -163,7 +154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260526-day@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:81°F 🌧️ Day: Slight Chance Rain Showers
@@ -176,7 +167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260526-night@github-pages-feed
-DTSTAMP:20260520T210710Z
+DTSTAMP:20260520T224317Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:59°F 🌧️ Night: Slight Chance Rain Showers
@@ -185,6 +176,19 @@ DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
  erature: 59°F\nConditions: Slight Chance Rain Showers\nWind: ESE 2 to 6 
  mph\n\nA slight chance of rain showers. Mostly cloudy\, with a low around
   59.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-weather-20260527-day@github-pages-feed
+DTSTAMP:20260520T224317Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:82°F ⛈️ Day: Chance Showers And Thunderstorms
+LOCATION:Ann Arbor\, MI
+DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
+ ature: 82°F\nConditions: Chance Showers And Thunderstorms\nWind: E 2 to 
+ 8 mph\n\nA slight chance of rain showers before 2pm\, then a chance of sh
+ owers and thunderstorms. Partly sunny\, with a high near 82.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
