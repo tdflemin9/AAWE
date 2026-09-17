@@ -7,36 +7,37 @@ X-WR-CALNAME:Ann Arbor NOAA Weather
 X-WR-CALDESC:Hourly refreshed NOAA/NWS forecast for Ann Arbor, Michigan
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260917-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:75°F 🌧️ Day: Chance Rain Showers then Mostly Cloudy
+SUMMARY:75°F 🌧️ Day: Chance Rain Showers
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 75°F\nConditions: Chance Rain Showers then Mostly Cloudy\nWind: N
- NE 3 mph\n\nA chance of rain showers before 10am. Mostly cloudy. High nea
- r 75\, with temperatures falling to around 73 in the afternoon. North nor
- theast wind around 3 mph. Chance of precipitation is 40%. New rainfall am
- ounts less than a tenth of an inch possible.
+ ature: 75°F\nConditions: Chance Rain Showers\nWind: NNE 3 mph\n\nA chanc
+ e of rain showers after 11am. Mostly cloudy. High near 75\, with temperat
+ ures falling to around 73 in the afternoon. North northeast wind around 3
+  mph. Chance of precipitation is 30%. New rainfall amounts less than a te
+ nth of an inch possible.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260917-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:56°F 🌧️ Night: Mostly Cloudy then Slight Chance Rain Showers
+SUMMARY:56°F 🌧️ Night: Chance Rain Showers
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 56°F\nConditions: Mostly Cloudy then Slight Chance Rain Showers
- \nWind: NNE 5 mph\n\nA slight chance of rain showers between 2am and 3am.
-  Mostly cloudy. Low around 56\, with temperatures rising to around 58 ove
- rnight. North northeast wind around 5 mph. Chance of precipitation is 20%.
+ erature: 56°F\nConditions: Chance Rain Showers\nWind: NNE 5 mph\n\nA cha
+ nce of rain showers before 3am. Mostly cloudy. Low around 56\, with tempe
+ ratures rising to around 58 overnight. North northeast wind around 5 mph.
+  Chance of precipitation is 30%. New rainfall amounts less than a tenth o
+ f an inch possible.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260918-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:75°F ☀️ Day: Mostly Sunny
@@ -49,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260918-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:56°F 🌧️ Night: Mostly Cloudy then Slight Chance Rain Showers
@@ -63,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260919-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:69°F 🌧️ Day: Rain Showers
@@ -78,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260919-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:60°F ⛈️ Night: Showers And Thunderstorms
@@ -91,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260920-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:69°F ⛈️ Day: Showers And Thunderstorms
@@ -104,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260920-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:52°F 🌧️ Night: Mostly Cloudy then Slight Chance Rain Showers
@@ -117,7 +118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260921-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:64°F 🌧️ Day: Slight Chance Rain Showers
@@ -129,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260921-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:51°F 🌧️ Night: Slight Chance Rain Showers
@@ -141,7 +142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260922-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:67°F 🌧️ Day: Slight Chance Rain Showers
@@ -153,7 +154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260922-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:55°F 🌧️ Night: Chance Rain Showers
@@ -165,7 +166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260923-day@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:72°F 🌧️ Day: Chance Rain Showers
@@ -177,7 +178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20260923-night@github-pages-feed
-DTSTAMP:20260917T113433Z
+DTSTAMP:20260917T165250Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:56°F 🌧️ Night: Chance Rain Showers
