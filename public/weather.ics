@@ -6,180 +6,178 @@ METHOD:PUBLISH
 X-WR-CALNAME:Ann Arbor NOAA Weather
 X-WR-CALDESC:Hourly refreshed NOAA/NWS forecast for Ann Arbor, Michigan
 BEGIN:VEVENT
-UID:ann-arbor-weather-20261012-night@github-pages-feed
-DTSTAMP:20261013T023159Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:66°F ⛈️ Night: Slight Chance Showers And Thunderstorms
+UID:ann-arbor-weather-20261013-night@github-pages-feed
+DTSTAMP:20261013T102557Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:66°F ⛈️ Night: Chance T-storms
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 66°F\nConditions: Slight Chance Showers And Thunderstorms\nWind
- : SW 8 to 12 mph\n\nA slight chance of showers and thunderstorms before 1
- am\, then scattered showers and thunderstorms between 1am and 2am\, then 
- a chance of showers and thunderstorms. Partly cloudy\, with a low around 
- 66. Southwest wind 8 to 12 mph\, with gusts as high as 20 mph. Chance of 
- precipitation is 40%. New rainfall amounts less than a tenth of an inch p
- ossible.
+ erature: 66°F\nConditions: Chance T-storms\nWind: SW 12 mph\n\nA chance 
+ of thunderstorms and a chance of rain before 5am. Mostly cloudy\, with a 
+ low around 66. Southwest wind around 12 mph\, with gusts as high as 21 mp
+ h. Chance of precipitation is 30%.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261013-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:82°F ⛈️ Day: Chance Showers And Thunderstorms then Sunny
+SUMMARY:83°F ⛈️ Day: Chance T-storms then Sunny
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 82°F\nConditions: Chance Showers And Thunderstorms then Sunny\nWi
- nd: WSW 13 to 18 mph\n\nA chance of showers and thunderstorms before 8am.
-  Sunny. High near 82\, with temperatures falling to around 80 in the afte
- rnoon. West southwest wind 13 to 18 mph\, with gusts as high as 30 mph. C
- hance of precipitation is 40%. New rainfall amounts less than a tenth of 
- an inch possible.
+ ature: 83°F\nConditions: Chance T-storms then Sunny\nWind: WSW 13 to 18 
+ mph\n\nA chance of thunderstorms and a chance of rain before 8am. Sunny. 
+ High near 83\, with temperatures falling to around 80 in the afternoon. W
+ est southwest wind 13 to 18 mph\, with gusts as high as 30 mph. Chance of
+  precipitation is 40%.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261013-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:58°F 🌧️ Night: Partly Cloudy then Light Rain Likely
+SUMMARY:57°F ⛈️ Night: Partly Cloudy then Slight Chance T-storms
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 58°F\nConditions: Partly Cloudy then Light Rain Likely\nWind: N
- W 2 to 15 mph\n\nRain likely and a slight chance of thunderstorms after 2
- am. Partly cloudy\, with a low around 58. Northwest wind 2 to 15 mph\, wi
- th gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall 
- amounts less than a tenth of an inch possible.
+ erature: 57°F\nConditions: Partly Cloudy then Slight Chance T-storms\nWi
+ nd: NW 1 to 15 mph\n\nA slight chance of thunderstorms and a slight chanc
+ e of rain between 2am and 3am\, then rain likely and a slight chance of t
+ hunderstorms. Partly cloudy. Low around 57\, with temperatures rising to 
+ around 59 overnight. Northwest wind 1 to 15 mph\, with gusts as high as 2
+ 6 mph. Chance of precipitation is 70%. New rainfall amounts less than a t
+ enth of an inch possible.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261014-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:68°F 🌧️ Day: Light Rain Likely
+SUMMARY:68°F 🌧️ Day: Light Rain Likely then Mostly Cloudy
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 68°F\nConditions: Light Rain Likely\nWind: N 2 to 8 mph\n\nRain l
- ikely and a slight chance of thunderstorms before 2pm. Mostly cloudy\, wi
- th a high near 68. North wind 2 to 8 mph. Chance of precipitation is 60%.
-  New rainfall amounts less than a tenth of an inch possible.
+ ature: 68°F\nConditions: Light Rain Likely then Mostly Cloudy\nWind: NNW
+  1 to 8 mph\n\nRain likely and a slight chance of thunderstorms before 11
+ am. Mostly cloudy\, with a high near 68. North northwest wind 1 to 8 mph.
+  Chance of precipitation is 60%. New rainfall amounts less than a tenth o
+ f an inch possible.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261014-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:48°F ☁️ Night: Mostly Cloudy
+SUMMARY:47°F ☁️ Night: Partly Cloudy
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 48°F\nConditions: Mostly Cloudy\nWind: NNE 7 mph\n\nMostly clou
- dy\, with a low around 48. North northeast wind around 7 mph.
+ erature: 47°F\nConditions: Partly Cloudy\nWind: NNE 7 mph\n\nPartly clou
+ dy\, with a low around 47. North northeast wind around 7 mph.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261015-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:63°F 🌧️ Day: Mostly Cloudy then Chance Rain
+SUMMARY:63°F 🌧️ Day: Mostly Cloudy then Light Rain Likely
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 63°F\nConditions: Mostly Cloudy then Chance Rain\nWind: E 5 to 9 
- mph\n\nA chance of rain after 2pm. Mostly cloudy\, with a high near 63. C
- hance of precipitation is 50%.
+ ature: 63°F\nConditions: Mostly Cloudy then Light Rain Likely\nWind: E 5
+  to 8 mph\n\nRain likely after 2pm. Mostly cloudy\, with a high near 63. 
+ Chance of precipitation is 60%.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261015-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:50°F 🌧️ Night: Rain
+SUMMARY:48°F 🌧️ Night: Light Rain Likely
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 50°F\nConditions: Rain\nWind: SSW 3 to 14 mph\n\nRain. Cloudy\,
-  with a low around 50.
+ erature: 48°F\nConditions: Light Rain Likely\nWind: SSW 3 to 16 mph\n\nR
+ ain likely. Cloudy\, with a low around 48.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261016-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:60°F 🌧️ Day: Chance Light Rain
+SUMMARY:58°F 🌧️ Day: Chance Light Rain
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 60°F\nConditions: Chance Light Rain\nWind: WNW 16 to 24 mph\n\nA 
- chance of rain. Mostly cloudy\, with a high near 60.
+ ature: 58°F\nConditions: Chance Light Rain\nWind: WNW 17 to 23 mph\n\nA 
+ chance of rain before 2pm. Partly sunny\, with a high near 58.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261016-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:36°F 🌧️ Night: Slight Chance Light Rain then Partly Cloudy
+SUMMARY:33°F ☁️ Night: Partly Cloudy
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 36°F\nConditions: Slight Chance Light Rain then Partly Cloudy\n
- Wind: NW 13 to 22 mph\n\nA slight chance of rain before 8pm. Partly cloud
- y\, with a low around 36.
+ erature: 33°F\nConditions: Partly Cloudy\nWind: NW 12 to 22 mph\n\nPartl
+ y cloudy\, with a low around 33.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261017-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:55°F ☀️ Day: Sunny
+SUMMARY:54°F ☀️ Day: Sunny
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 55°F\nConditions: Sunny\nWind: NW 8 to 12 mph\n\nSunny\, with a h
- igh near 55.
+ ature: 54°F\nConditions: Sunny\nWind: NW 7 to 10 mph\n\nSunny\, with a h
+ igh near 54.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261017-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:35°F ☀️ Night: Mostly Clear
+SUMMARY:33°F ☀️ Night: Clear
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 35°F\nConditions: Mostly Clear\nWind: WSW 5 to 9 mph\n\nMostly 
- clear\, with a low around 35.
+ erature: 33°F\nConditions: Clear\nWind: WSW 5 to 8 mph\n\nClear\, with a
+  low around 33.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261018-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:60°F ☀️ Day: Sunny
+SUMMARY:62°F ☀️ Day: Sunny
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Day\nTemper
- ature: 60°F\nConditions: Sunny\nWind: SW 6 to 14 mph\n\nSunny\, with a h
- igh near 60.
+ ature: 62°F\nConditions: Sunny\nWind: SW 6 to 14 mph\n\nSunny\, with a h
+ igh near 62.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261018-night@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:42°F ☀️ Night: Mostly Clear
+SUMMARY:41°F ☀️ Night: Mostly Clear
 LOCATION:Ann Arbor\, MI
 DESCRIPTION:NOAA forecast for Ann Arbor\, MI\nForecast period: Night\nTemp
- erature: 42°F\nConditions: Mostly Clear\nWind: SSW 8 to 13 mph\n\nMostly
-  clear\, with a low around 42.
+ erature: 41°F\nConditions: Mostly Clear\nWind: SSW 8 to 12 mph\n\nMostly
+  clear\, with a low around 41.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-weather-20261019-day@github-pages-feed
-DTSTAMP:20261013T023159Z
+DTSTAMP:20261013T102557Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:66°F ☀️ Day: Mostly Sunny
